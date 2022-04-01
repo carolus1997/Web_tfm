@@ -917,7 +917,9 @@
   .u-section-6 .u-layout-cell-3 {
     min-height: 676px;
   }
-
+  .u-section-6 .u-layout-cell-3-1 {
+    min-height: 100px;
+  }
   .u-section-6 .u-image-2 {
     height: 301px;
   }
