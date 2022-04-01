@@ -849,7 +849,11 @@
   font-weight: 700;
   margin: 0;
 }
-
+.u-section-6 .u-image-2-1 {
+  min-height: 410px;
+  background-image: url("images/pexels-photo-99284141.jpeg");
+  background-position: 50% 50%;
+}
 .u-section-6 .u-image-2 {
   height: 365px;
   margin-top: 20px;
@@ -1261,7 +1265,7 @@
 .u-section-8 .u-image-1 {
   width: 255px;
   height: 255px;
-  background-image: url("images/golden-sunset_181624-188051.jpg");
+  background-image: url("images/logo.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
