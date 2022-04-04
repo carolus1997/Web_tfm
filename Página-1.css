@@ -416,7 +416,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 475px;
-  background-image: url("images/dd1.jpg");
+  background-image: url("images/teatro_1.jpg");
   background-position: 50% 50%;
 }
 
@@ -426,7 +426,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 475px;
-  background-image: url("images/pexels-photo-97259791.jpeg");
+  background-image: url("images/granVia_noche_Mad.jpg");
   background-position: 50% 50%;
 }
 
@@ -456,7 +456,7 @@
 
 .u-section-3 .u-image-3 {
   min-height: 238px;
-  background-image: url("images/5fe1dd474e50b108f5d08460962934761237d6ed5a4c704c722a7bd7954cc750_12801.jpg");
+  background-image: url("images/Calle_terraza_Mad.jpg");
   background-position: 50% 50%;
 }
 
@@ -832,7 +832,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 410px;
-  background-image: url("images/pexels-photo-99284141.jpeg");
+  background-image: url("images/alfonso.jpeg");
   background-position: 50% 50%;
 }
 
@@ -862,7 +862,7 @@
 }
 
 .u-section-6 .u-image-3 {
-  background-image: url("images/pexels-photo-98300161.jpeg");
+  background-image: url("images/bruno.jpeg");
   background-position: 50% 50%;
   min-height: 410px;
 }
@@ -1043,6 +1043,11 @@
 
 .u-section-7 .u-container-layout-1 {
   padding: 30px;
+  
+}
+
+.u-conatiner-layout-3-1{
+ position: 110%;
 }
 
 .u-section-7 .u-image-1 {
