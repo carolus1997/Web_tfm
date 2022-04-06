@@ -1,3 +1,8 @@
+ img:hover{
+   transform: scale(1.15);
+   transition: transform .75s;
+ }
+ 
  .u-section-1 {
   min-height: 413px;
 }
