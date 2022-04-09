@@ -18,6 +18,11 @@
   }
 } */
 
+.webMap{
+  width: 80% !important;
+  height: 600px;
+  
+}
 img:hover  {
   transform: scale(1.15);
   transition: transform .75s;
@@ -672,6 +677,7 @@ img:hover  {
 
 .u-section-4 .u-container-layout-1 {
   padding: 10px;
+  width: 100%;
 }
 
 .u-section-4 .u-text-1 {
