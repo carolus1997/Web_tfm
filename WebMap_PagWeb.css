@@ -4,7 +4,10 @@ body {
   width: 100%;
   margin: 0;
 }
-
+.webMap{
+  width: 80%;
+  height: auto;
+}
 body {
   background-color: white;
   overflow: hidden;
@@ -47,8 +50,8 @@ body {
   display: block;
   position: absolute;
   z-index: 2;
-  top: 10px;
-  left: 80px;
+  top: 5%;
+  left: 10%;
 }
 
 #rightPane {
@@ -75,13 +78,13 @@ body {
 } */
 
 #footer {
-  margin: 2px;
-  border: solid 2px #224a54;
+  margin: 1%;
+  border: solid 1% #224a54;
   background-color: #7188d5;
   color: #000000;
   font-size: 20pt;
   text-align: center;
-  height: 40px;
+  height: 15%;
 }
 
 .dijitTabInnerDiv {
@@ -95,14 +98,14 @@ body {
 .botones {
   background-color: white;
   color: black;
-  border: 2px solid #008CBA;
+  border: 1% solid #008CBA;
   font-size: large;
-  border-radius: 12px;
-  padding: 8px 16px;
+  border-radius: 5%;
+  padding: 2% 5%;
 }
 
 .botones:hover {
   background-color: #008CBA;
   color: white;
-  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 5% 7% 0 rgba(0, 0, 0, 0.24), 0 7% 15% 0 rgba(0, 0, 0, 0.19);
 }

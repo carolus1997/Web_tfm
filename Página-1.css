@@ -28,7 +28,10 @@ img:hover  {
   transition: transform .75s;
 }
 
-
+.imagenResponsive{
+  width:80%;
+  height: auto;
+}
 
 .u-section-1 {
   min-height: 413px;
