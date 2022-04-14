@@ -25,6 +25,23 @@
   
 }
 
+@media(min-width:550px){
+  .webMap{
+    width: 110% !important;
+    height: 600px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+@media(min-width:950px){
+  .webMap{
+    width: 120% !important;
+    height: 600px;
+    padding-left: 20%;
+  }
+}
+
 .WebMap_layout{
   width: 100%;
   height: auto;
