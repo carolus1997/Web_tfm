@@ -23,6 +23,13 @@
   height: 600px;
   
 }
+
+.WebMap_layout{
+  width: 80%;
+  height: auto;
+  display: block;
+  align-items: center;
+}
 img:hover  {
   transform: scale(1.15);
   transition: transform .75s;
@@ -31,6 +38,29 @@ img:hover  {
 .imagenResponsive{
   width:80%;
   height: auto;
+}
+.imagenResponsive-StoryMap{
+  width: 100%;
+  height: auto;
+  margin-top: 5%;
+}
+
+.contenedor-minimenu{
+border-radius: 5%;
+border: 5px #000;
+text-align: justify;
+box-shadow: 10px 10px 5px lightslategray;
+}
+
+.minimenu{
+  display: flex;
+  flex-direction: row;  
+}
+
+.contenedor-vacio{
+  width: 100%;
+  height: 20%;
+  margin-bottom: 10%;
 }
 
 .u-section-1 {
