@@ -18,6 +18,7 @@
   }
 } */
 
+
 .webMap{
   width: 80% !important;
   height: 600px;
@@ -63,6 +64,12 @@ box-shadow: 10px 10px 5px lightslategray;
   margin-bottom: 10%;
 }
 
+.divVideo{
+  width: 80%;
+  height: auto;
+  align-items: center;
+  padding-left: 20%;
+}
 .u-section-1 {
   min-height: 413px;
 }
