@@ -218,8 +218,8 @@ require([
         var OverviewMap = new OverviewMap({
             map: mapMain,
             attachTo: "bottom-left",
-            height: 150,
-            width: 150,
+            // height: auto,
+            // width: auto,
             visible: true
         });
         OverviewMap.startup();
