@@ -1734,11 +1734,11 @@ fieldset {
 }
 
 
-#contact input:focus,
+/* #contact input:focus,
 #contact textarea:focus {
   outline: 0;
   border: 1px solid #aaa;
-}
+} */
 
 ::-webkit-input-placeholder {
   color: #888;
